@@ -120,6 +120,14 @@ footer {
 	font-style: italic;
 }
 
+.image-portfolio {
+	width: 200px;
+	height: 200px;
+	padding: 25px;
+	z-index: 1;
+	float: left;
+}
+
 .portfolio-banner {
 	background-color: #4aaaa5;
 	color: white;
@@ -169,12 +177,4 @@ footer {
 	content: url("../images/guinness.jpg");
 	width: 200px;
 	height: 300px;
-}
-
-.image-portfolio {
-	width: 200px;
-	height: 200px;
-	padding: 25px;
-	z-index: 1;
-	float: left;
 }
